@@ -16,9 +16,9 @@ const Compliance = () => {
     ],
     complaintsData: [
       {
-        date: "04 Jul, 2025",
+        date: "04 Nov, 2025",
         title: "Investor Complaints Data",
-        size: "34.92 KB",
+        size: "37.25 KB",
         link: "/documents/investor-complaints-data.xlsx"
       }
     ],
